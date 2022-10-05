@@ -1,5 +1,5 @@
 
-str1 = 'hello.'
+str1 = 'Your color choices are red, blue, green, white or yellow.'
 print(str1)
 
 str2 = 'Enter a color from the list above: '
