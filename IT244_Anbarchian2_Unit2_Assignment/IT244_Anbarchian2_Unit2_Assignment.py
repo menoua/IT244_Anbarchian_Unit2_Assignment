@@ -9,7 +9,7 @@ userColor = input()
 
 validColor = True
 if userColor == 'red':
-    spanishColor = 'roja'
+    spanishcolor = 'roja'
 elif userColor == 'blue':
     spanishColor = 'azul'
 elif userColor == 'green':
