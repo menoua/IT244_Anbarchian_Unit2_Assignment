@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IT244_Anbarchian_Unit2_Assignment", "IT244_Anbarchian_Unit2_Assignment\IT244_Anbarchian_Unit2_Assignment.pyproj", "{EE5E6657-2BF2-494B-B448-A34AE749044D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IT244_Anbarchian2_Unit2_Assignment", "IT244_Anbarchian2_Unit2_Assignment\IT244_Anbarchian2_Unit2_Assignment.pyproj", "{76185AF4-6FD1-4A37-8334-B2A821C1A7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE5E6657-2BF2-494B-B448-A34AE749044D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5E6657-2BF2-494B-B448-A34AE749044D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76185AF4-6FD1-4A37-8334-B2A821C1A7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76185AF4-6FD1-4A37-8334-B2A821C1A7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14286CCE-3A5C-49D1-A3F3-1C712E022B39}
+	EndGlobalSection
+EndGlobal
