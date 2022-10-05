@@ -9,19 +9,19 @@ userColor = input()
 
 validColor = True
 if userColor == 'red':
-    spanishcolor = 'roja'
+    spanishColor = 'roja'
 elif userColor == 'blue':
     spanishColor = 'azul'
 elif userColor == 'green':
     spanishColor = 'verde'
 elif userColor == 'white':
-    spanishcolor = 'blanco'
+    spanishColor = 'blanco'
 elif userColor == 'yellow':
-    spanishcolor = 'amarillo'
+    spanishColor = 'amarillo'
 else:
-    validcolor = False
+    validColor = False
 
-if validcolor:
-    print('The color', userColor, 'in Spanish is ' + spanishcolor)
+if validColor:
+    print('The color', userColor, 'in Spanish is ' + spanishColor)
 else:
     print('That is not a valid color for this program. Ese no es un color Valido')
